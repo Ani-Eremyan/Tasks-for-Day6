@@ -1,0 +1,17 @@
+.tab {
+    background-color: #8dace2;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .tab.active {
+    background-color: #d4cce0;
+  }
+  
+  .tab-content {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #eee0e0;
+    background-color: aliceblue;
+  }
